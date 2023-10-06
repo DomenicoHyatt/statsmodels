@@ -1,4 +1,4 @@
-.. image:: docs/source/images/statsmodels-logo-v2-horizontal.svg
+..*image:: docs/source/images/statsmodels-logo-v2-horizontal.svg
   :alt: Statsmodels logo
 
 |PyPI Version| |Conda Version| |License| |Azure CI Build Status|
@@ -205,3 +205,4 @@ https://github.com/statsmodels/statsmodels/issues
    :target: https://anaconda.org/conda-forge/statsmodels/
 .. |License| image:: https://img.shields.io/pypi/l/statsmodels.svg
    :target: https://github.com/statsmodels/statsmodels/blob/main/LICENSE.txt
+ 
